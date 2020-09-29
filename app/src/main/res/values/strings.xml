@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">3semana_parte2</string>
+    <string name="label_reserva">Reservar cita</string>
+    <string name="label_descripcion">Descripcion</string>
+    <string name="label_especialidad">Especialidad</string>
+    <string name="label__tipo">Tipo de Cita</string>
+    <string name="rdb_tipo1">Consulta</string>
+    <string name="rdb_tipo2">Examen</string>
+    <string name="rdb_tipo3">Operacion</string>
+    <string name="btn_siguiente">Siguiente</string>
+
+</resources>
